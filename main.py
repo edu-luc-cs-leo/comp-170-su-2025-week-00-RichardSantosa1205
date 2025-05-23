@@ -3,24 +3,45 @@
 # Lab 0
 # Problem 1
 """
-1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
 Your solution goes here
-
-
+1. `first_name` : Valid, it follows Phyton's variable naming rule and uses '_' (underscore) to seperate words
+2. `2nd_name` : Invalid, this is due to variable names are not allowed to begening with a digit
+3. `age` : Valid, this is a simple and acceptable names
+4. `total_amount` : Valid, it follows Phyton's variable naming rule and uses '_' (underscore) to seperate words
+5. `while` : Invalid, this is a reserved keyword in Python
+6. `Student` : Valid, though capitalized it is still a valid variable name
+7. `my-variable` : Invalid, Hyphens are not allowed in Python variable names
+8. `for` : Invalid, this is a reserved keyword in Python 
+9. `_temp` : Invalid, variable names can't start with an '_' (underscore)
+10. `value#` : Invalid, the # character is not allowed in variable names
 """
 # Problem 2
 """
 Your solution goes here
-
-
+1. `calculate_total` : 
+2. `3rd_function` : 
+3. `print_values` : 
+4. `find-item` : 
+5. `def` : 
+6. `updateProfile` : 
+7. `my_function` : 
+8. `try` : 
+9. `init_data` : 
+10. `value@function` : 
 """
 # Problem 3
 """
 Your solution goes here
-
-
+1. `True and False` : 
+2. `5 > 3 or "apple" < "banana"` : 
+3. `not 10 <= 20` : 
+4. `True or 5 = 4` : 
+5. `"apple" != "orange" and 5` : 
+6. `3 < 5 not True` : 
+7. `False == (3 > 4)` : 
+8. `10 <= "10"` : 
+9. `True or not False` : 
+10. `5 and or 4` : 
 """
 #-----------------------------------------------------------------------------
 # Homework 0
