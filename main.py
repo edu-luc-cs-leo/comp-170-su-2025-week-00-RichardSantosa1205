@@ -22,7 +22,7 @@ Your solution goes here
 2. `3rd_function` : 
 3. `print_values` : 
 4. `find-item` : 
-5. `def` : 
+5. `def` : 123
 6. `updateProfile` : 
 7. `my_function` : 
 8. `try` : 
