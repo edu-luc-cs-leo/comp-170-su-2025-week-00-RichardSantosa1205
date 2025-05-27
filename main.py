@@ -18,30 +18,30 @@ Your solution goes here
 # Problem 2
 """
 Your solution goes here
-1. `calculate_total` : 
-2. `3rd_function` : 
-3. `print_values` : 
-4. `find-item` : 
-5. `def` : 123
-6. `updateProfile` : 
-7. `my_function` : 
-8. `try` : 
-9. `init_data` : 
-10. `value@function` : 
+1. `calculate_total` : Valid. Follows naming rules and it is descriptive
+2. `3rd_function` : invalid. Function names cannot start with digits
+3. `print_values` : Valid. It is legal and descriptive
+4. `find-item` : Invalid. Hyphens are not allowed in function names
+5. `def` : Invalid. This word is reserved to define functions
+6. `updateProfile` : Valid. CamelCase is allowed
+7. `my_function` : Valid. This follows naming conventions
+8. `try` : Invalid. This word is reserved to define functions
+9. `init_data` : Valid. Follows naming rules
+10. `value@function` : Invalid. @ is not allowed in function names
 """
 # Problem 3
 """
 Your solution goes here
-1. `True and False` : 
-2. `5 > 3 or "apple" < "banana"` : 
-3. `not 10 <= 20` : 
-4. `True or 5 = 4` : 
-5. `"apple" != "orange" and 5` : 
-6. `3 < 5 not True` : 
-7. `False == (3 > 4)` : 
-8. `10 <= "10"` : 
-9. `True or not False` : 
-10. `5 and or 4` : 
+1. `True and False` : Valid. As it evaluates to 'False'. Both are booleans 'and' returns True only if both are true
+2. `5 > 3 or "apple" < "banana"` : Valid. As it evaluates to 'True'. '5 > 3' is true 'or' short-circuits to true
+3. `not 10 <= 20` : Valid. As it evaluates to 'False'. '10 <= 20' is true, and 'not' inverts it 
+4. `True or 5 = 4` : Invalid. The '=' is an assignment operator, it is not the symbol for comparison. The proper comman would have been '=='
+5. `"apple" != "orange" and 5` : Valid. As it evaluates to '5'. 'True and 5' returns the second operand in Python 
+6. `3 < 5 not True` : Invalid. this will result in a syntax error. Needs parantheses or explicit logical operator like 'and' / 'or'
+7. `False == (3 > 4)` : Valid. As it evaluates to true. 3 > 4 is False, so comparison is false == false
+8. `10 <= "10"` : Valid. As it evaluates to 'True'. the string is automatically converted
+9. `True or not False` : Valid. As it evaluates to 'True'. 'True or True' is 'True'
+10. `5 and or 4` : Invalid. This would result in a syntax error. 'and' / 'or' must be used with valid operands
 """
 #-----------------------------------------------------------------------------
 # Homework 0
